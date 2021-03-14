@@ -12,4 +12,4 @@ SabreCSG licensed under MIT (Expat) license.
 
 Texture files in rage_pueblo, rage_generic, sound files in sounds/levelsfx, models in models/western were taken from Mobile Forces game. To make western scene file content taken from Mobile Forces was used.
 
-Not sure where c# scripts were taken from.
+Not sure where c# scripts were taken from, supposedly Filip written them.
